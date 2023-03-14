@@ -7,7 +7,7 @@ This is a Get User Details Project which is built using Reactjs ,CSS  , Bootstra
 <br/>
 
 ## Features
--Fetch and show albums from the api - https://reqres.in/api/users<br/>
+-Fetch and show user data from the api - https://reqres.in/api/users<br/>
 <br/>
 <br/>
 
