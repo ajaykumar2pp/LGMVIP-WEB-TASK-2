@@ -1,3 +1,39 @@
+# Get User  🚀🚀
+
+## ⭐ Introduction
+
+This is a Get User Details Project which is built using Reactjs ,CSS  , Bootstrap. It is responsive across all devices.
+<br/>
+<br/>
+
+## Features
+-Fetch and show albums from the api - https://reqres.in/api/users<br/>
+<br/>
+<br/>
+
+## Packages Install
+-react-bootstrap<br/>
+-bootstrap<br/>
+-react-icons<br/>
+
+
+
+
+## 🔗 Links
+> ## CheckOut the website link https://lgmvip-web-get-user.netlify.app/ 
+<br/>
+<br/>
+## 💻 Screens
+
+### Read User
+
+![Screenshot (192)](https://user-images.githubusercontent.com/102378038/225038160-8324cc89-6585-402d-a7f4-e37c3f6b138e.png)
+
+![Screenshot (188)](https://user-images.githubusercontent.com/102378038/225038193-e672d061-ca6a-498c-b26a-10ad76aa23c9.png)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
